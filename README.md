@@ -6,3 +6,4 @@ Here I have done Machine Learning Projects
 4. DummyVariables_OneHotEncoding_CarPrices
 5. LogisticRegression_BinaryClassfication_HRcommaSep
 6. LogisticRegression_MulticlassClassfication_IRIS
+7. Decision Tree_Titanic
