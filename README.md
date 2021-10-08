@@ -8,3 +8,4 @@ Here I have done Machine Learning Projects
 6. LogisticRegression_MulticlassClassfication_IRIS
 7. Decision Tree_Titanic
 8. SupportVectorMachine_Exercise-Digits
+9. Random Forest_Exercise-Iris
