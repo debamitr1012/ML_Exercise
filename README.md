@@ -11,3 +11,4 @@ Here I have done Machine Learning Projects
 9. Random Forest_Exercise-Iris
 10. K FoldCrossValidation_Exercise-Iris
 11. K MeansClusteringAlgorithm_Exercise-Iris
+12. NaiveBayesClassifierAlgorithm_WineDataset
