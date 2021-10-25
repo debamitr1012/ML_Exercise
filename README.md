@@ -13,3 +13,4 @@ Here I have done Machine Learning Projects
 11. K MeansClusteringAlgorithm_Exercise-Iris
 12. NaiveBayesClassifierAlgorithm_WineDataset
 13. HyperParameterTuning(GridSearchCV)_ Digits
+14. L1andL2 Regularization_Melbourne House Price
