@@ -12,3 +12,4 @@ Here I have done Machine Learning Projects
 10. K FoldCrossValidation_Exercise-Iris
 11. K MeansClusteringAlgorithm_Exercise-Iris
 12. NaiveBayesClassifierAlgorithm_WineDataset
+13. HyperParameterTuning(GridSearchCV)_ Digits
