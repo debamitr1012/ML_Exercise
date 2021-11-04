@@ -14,3 +14,4 @@ Here I have done Machine Learning Projects
 12. NaiveBayesClassifierAlgorithm_WineDataset
 13. HyperParameterTuning(GridSearchCV)_ Digits
 14. L1andL2 Regularization_Melbourne House Price
+15. KNN Classification_Digits
