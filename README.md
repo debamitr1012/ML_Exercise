@@ -16,3 +16,4 @@ Here I have done Machine Learning Projects
 14. L1andL2 Regularization_Melbourne House Price
 15. KNN Classification_Digits
 16. PCA_Heart Disease
+17. Bagging_Heart Disease
