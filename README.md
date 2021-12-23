@@ -1,5 +1,5 @@
 # ML_Exercise
-Here I have done Machine Learning Projects
+Here I have done Machine Learning Short/Mini Projects as an Exercise. It will help others to go through for learning purpose.
 1. Linear Regression_Canada per capita income
 2. Multivariate Regression_Hiring
 3. Gradient Descent_Test Scores
